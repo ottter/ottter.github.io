@@ -8,7 +8,7 @@
     {
       "name":"CV Sudoku Solver",
       "url":"https://github.com/ottter/sudoku",
-      "desc":"Use computer vision to solve images of sudoku puzzles"
+      "desc":"Computer vision used to solve images of sudoku puzzles"
     }
   ]
 }
