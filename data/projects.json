@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "name":"Senior Capstone",
+      "url":"https://github.com/ottter/capstone",
+      "desc":"Student-focused collaboration tool"
+    },
+    {
+      "name":"CV Sudoku Solver",
+      "url":"https://github.com/ottter/sudoku",
+      "desc":"Use computer vision to solve images of sudoku puzzles"
+    }
+  ]
+}
