@@ -2,19 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>code on My blog</title>
-    <link>https://ottter.github.io/categories/code/</link>
+    <link>https://jamescr.dev/categories/code/</link>
     <description>Recent content in code on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>You</copyright>
-    <lastBuildDate>Sun, 04 Apr 2021 21:41:30 -0400</lastBuildDate><atom:link href="https://ottter.github.io/categories/code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2020 21:41:30 -0400</lastBuildDate><atom:link href="https://jamescr.dev/categories/code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Suduko, part 1</title>
-      <link>https://ottter.github.io/posts/suduko-1/</link>
-      <pubDate>Sun, 04 Apr 2021 21:41:30 -0400</pubDate>
+      <link>https://jamescr.dev/posts/suduko-1/</link>
+      <pubDate>Wed, 01 Apr 2020 21:41:30 -0400</pubDate>
       
-      <guid>https://ottter.github.io/posts/suduko-1/</guid>
-      <description>Placeholder text</description>
+      <guid>https://jamescr.dev/posts/suduko-1/</guid>
+      <description>Because this entire project is meant to teach myself OpenCV and OCR, I will be updating this as I go. Explaining how something works and my thought process behind it helps me better understand what is going on. It also might help me not forget what this is in the future.
+Initial Image Processing Images should first be converted to gray-scale. A Gaussian blur is a way to smooth an image and is added to reduce detail and image noise which helps with edge detection.</description>
     </item>
     
   </channel>
