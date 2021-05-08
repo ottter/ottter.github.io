@@ -1,5 +1,6 @@
 ---
 title: "Chia Farming Setup"
+summary: "Setting up a home Chia farming rig"
 date: 2021-05-08T16:21:38-04:00
 
 tags: [cryptocurrency, chia, farming, mining, homelab]
