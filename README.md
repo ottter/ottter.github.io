@@ -1,12 +1,15 @@
-# My Personal Website
+## My Personal Website
 
-It's like an SOP but less professional
+Forcing myself to write a post about what I do will (hopefully) force me to be more productive and proactive in my 
+free time.
 
-Made with Hugo with the cactus theme; utilizing GitHub Pages & Actions.
+### Make a New Post
 
-## How to run
-
-1. Make a new post: `hugo new posts/example-post-name.md`
+1. Create the file: `hugo new posts/example-post-name.md`
 2. Edit the post: `vi content/posts/example-post-name.md`
-3. Publish: `hugo`
-4. Push to github: `git push`
+3. Check locally: `hugo server -D` or just publish: `hugo`
+4. Publish to github: `git push`
+
+### Tools used
+* [Hugo](https://gohugo.io/) framework (with [cactus](https://themes.gohugo.io/hugo-theme-cactus/) theme)
+* Github Pages && Actions
