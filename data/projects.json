@@ -1,14 +1,14 @@
 {
   "list": [
     {
-      "name":"Senior Capstone",
+      "name":"MGA Connect",
       "url":"https://github.com/ottter/capstone",
-      "desc":"Student-focused collaboration tool"
+      "desc":"Senior Capstone project I lead dev'ed. A student collaboration tool."
     },
     {
       "name":"CV Sudoku Solver",
       "url":"https://github.com/ottter/sudoku",
-      "desc":"Computer vision used to solve images of sudoku puzzles"
+      "desc":"Computer vision used to solve images of sudoku puzzles."
     }
   ]
 }

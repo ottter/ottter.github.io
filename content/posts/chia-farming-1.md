@@ -1,8 +1,8 @@
 ---
-title: "Chia Mining Setup"
+title: "Chia Farming Setup"
 date: 2021-05-08T16:21:38-04:00
 
-tags: [cryptocurrency, chia, mining, homelab]
+tags: [cryptocurrency, chia, farming, mining, homelab]
 categories: [chia, cryptocurrency, homelab]
 ---
 
@@ -30,7 +30,7 @@ paying off my initial investment, then I can easily use the parts for another pr
 with a better CPU, a second plotting SSD, and more HDD storage. It literally can't go tits up.
 
 Progress Report:
-![Current Chia Status. Nice.](/images/chia/chia-miner-1.png)
+![Current Chia Status. Nice.](/images/chia/chia-farmer-1.png)
 
 Next up:
 * Building a Plex server (if Chia fails me)

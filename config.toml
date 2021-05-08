@@ -1,6 +1,6 @@
 baseURL = "https://jamescr.dev"
 languageCode = "en-us"
-title = "My blog"
+title = "James' Blog"
 theme = "cactus"
 copyright = "You" # cactus will use title if copyright is not set
 disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
@@ -47,7 +47,7 @@ weight = 4
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "A place where I post about stuff I do that looks kind of like a tutorial or guide. Mostly so I can look back at what I did in the past to fix things that break. Kind of like commenting in code but with a cool theme built in Hugo."
+  description = "A place where I post about topics that interest me and things I learn as I go. I like taking notes so the second time an issue arises, I know how to solve it in less steps than the first time, except this time it's posted publicly, and maybe someone else out there will find a use for it. 99.9% of content will be tech related."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
@@ -73,6 +73,6 @@ weight = 4
   [[params.social]]
     name = "linkedin"
     link = "https://www.linkedin.com/in/crossjamesr/"
-  [[params.social]]
-    name = "email"
-    link = "example@example.com"  # no need for "mailto:" in the head
+#  [[params.social]]
+#    name = "email"
+#    link = "example@example.com"  # no need for "mailto:" in the head
