@@ -14,7 +14,7 @@
       <pubDate>Sat, 08 May 2021 16:21:38 -0400</pubDate>
       
       <guid>https://jamescr.dev/posts/chia-farming-1/</guid>
-      <description>For a while I have wanting to set up a homelab of some sort to build my knowledge up in a fun little environment that doesn&amp;rsquo;t have the same rules as there are at work. A month ago I read about Chia and the differences in mining farming it compared to major cryptocurrencies like Bitcoin and Ethereum. Coincidentally I also just finished a new PC build (sans GPU, due to the aforementioned BTC and ETH), so I had the spare parts to get started.</description>
+      <description>Setting up a home Chia farming rig</description>
     </item>
     
     <item>
@@ -23,9 +23,7 @@
       <pubDate>Sun, 04 Apr 2021 21:41:30 -0400</pubDate>
       
       <guid>https://jamescr.dev/posts/suduko-1/</guid>
-      <description>This was originally written in Janurary 2020.
-Because this entire project is meant to teach myself OpenCV and OCR, I will be updating this as I go. Explaining how something works and my thought process behind it helps me better understand what is going on. It also might help me not forget what this is in the future.
-Initial Image Processing Images should first be converted to gray-scale. A Gaussian blur is a way to smooth an image and is added to reduce detail and image noise which helps with edge detection.</description>
+      <description>Teaching myself OCR through OpenCV</description>
     </item>
     
     <item>
@@ -35,7 +33,8 @@ Initial Image Processing Images should first be converted to gray-scale. A Gauss
       
       <guid>https://jamescr.dev/about/</guid>
       <description>Github: https://github.com/ottter
-LinkedIn: https://www.linkedin.com/in/crossjamesr/</description>
+LinkedIn: https://www.linkedin.com/in/crossjamesr/
+I&amp;rsquo;m currently a Systems Administrator. Previously I was a Bioinformatics Research Assistant at Middle Georgia State University and an IT Project Management intern at the Children&amp;rsquo;s Hospital of Philadelphia. I have a strong interest in DevOps and Information Security. I&amp;rsquo;m lucky enough that my career choice aligns with my hobbies. I am in the process of building a homelab to help develop this hobby and increase my work competency level.</description>
     </item>
     
     <item>
