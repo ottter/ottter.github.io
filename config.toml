@@ -16,7 +16,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Writings"
+name = "Posts"
 url = "/posts"
 weight = 2
 
@@ -47,7 +47,7 @@ weight = 4
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "A place where I post about topics that interest me and things I learn as I go. I like taking notes so the second time an issue arises, I know how to solve it in less steps than the first time, except this time it's posted publicly, and maybe someone else out there will find a use for it. 99.9% of content will be tech related."
+  description = "A place where I post about topics that interest me while I learn as I go. I like taking notes. Most of the time it's in a notebook, but sometimes I'll repost them here for the world to see. Except with the SEO I plan on utilizing (none), if YOU are reading this, you already know what you're looking for."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
@@ -73,6 +73,4 @@ weight = 4
   [[params.social]]
     name = "linkedin"
     link = "https://www.linkedin.com/in/crossjamesr/"
-#  [[params.social]]
-#    name = "email"
-#    link = "example@example.com"  # no need for "mailto:" in the head
+

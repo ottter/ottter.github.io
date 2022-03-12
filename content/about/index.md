@@ -2,13 +2,31 @@
 title: "About"
 date: 2021-04-04T21:29:57-04:00
 ---
-Github: https://github.com/ottter
 
-LinkedIn: https://www.linkedin.com/in/crossjamesr/
+## Skills
 
-I'm currently a Systems Administrator. Previously I was a Bioinformatics Research Assistant at Middle Georgia 
-State University and an IT Project Management intern at the Children's Hospital of Philadelphia. I have a strong 
-interest in DevOps and Information Security. I'm lucky enough that my career choice aligns with my hobbies. I am 
-in the process of building a homelab to help develop this hobby and increase my work competency level.
+tbd...
 
-(pics tbd)
+## Certifications
+
+Currently studying for...  
+RedHat Certified System Administrator (RHCSA)
+
+CompTIA Security+ *issued October 2020*  
+TestOut Security Pro *issued August 2019*
+
+## Experience
+
+> Systems Administrator (July 2020 - Present)  
+> *USAF 402nd Software Engineering*
+
+> Research Assistant (August 2019 - May 2020)  
+> *Middle Georgia State University*
+
+> Project Manager Co-Op  (May 2019 - August 2019)  
+> *Children's Hospital of Philadelphia**
+
+## Education
+
+> Middle Georgia State University (August 2017 to May 2020)  
+> BSIT in Cybersecurity (3.8 GPA)
