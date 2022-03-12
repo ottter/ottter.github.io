@@ -6,6 +6,7 @@ copyright = "You" # cactus will use title if copyright is not set
 disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
 
+builddrafts = true
 
 # summaryLength = 2
 
@@ -26,7 +27,7 @@ url = "/tags"
 weight = 3
 
 [[menu.main]]
-name = "Me"
+name = "About Me"
 url = "/about"
 weight = 4
 
