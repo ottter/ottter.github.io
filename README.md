@@ -1,7 +1,6 @@
 ## My Personal Website
 
-Forcing myself to write a post about what I do will (hopefully) force me to be more productive and proactive in my 
-free time.
+I figured that blogging some of my personal projects would be a good motivator to be more productive in my free time and to improve at what I love. There is no set theme, purpose, or timeframe for posts. My current focus will be documenting the creation of my homelab. 
 
 ### Make a New Post
 
