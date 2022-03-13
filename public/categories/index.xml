@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>You</copyright>
-    <lastBuildDate>Sat, 08 May 2021 16:21:38 -0400</lastBuildDate><atom:link href="https://jamescr.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Mar 2022 15:41:42 -0400</lastBuildDate><atom:link href="https://jamescr.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>homelab</title>
+      <link>https://jamescr.dev/categories/homelab/</link>
+      <pubDate>Sun, 13 Mar 2022 15:41:42 -0400</pubDate>
+      
+      <guid>https://jamescr.dev/categories/homelab/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>chia</title>
       <link>https://jamescr.dev/categories/chia/</link>
@@ -23,15 +32,6 @@
       <pubDate>Sat, 08 May 2021 16:21:38 -0400</pubDate>
       
       <guid>https://jamescr.dev/categories/cryptocurrency/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>homelab</title>
-      <link>https://jamescr.dev/categories/homelab/</link>
-      <pubDate>Sat, 08 May 2021 16:21:38 -0400</pubDate>
-      
-      <guid>https://jamescr.dev/categories/homelab/</guid>
       <description></description>
     </item>
     

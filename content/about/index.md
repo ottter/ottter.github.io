@@ -10,7 +10,7 @@ tbd...
 ## Certifications
 
 Currently studying for...  
-**RedHat Certified System Administrator (RHCSA)**
+**RedHat Certified System Administrator** (RHCSA)
 
 **CompTIA Security+** *issued October 2020*  
 **TestOut Security Pro** *issued August 2019*

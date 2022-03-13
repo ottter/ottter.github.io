@@ -1,6 +1,11 @@
 {
   "list": [
     {
+      "name":"Personal Homelab",
+      "url":"https://github.com/ottter/",
+      "desc":"Repo where I store config files and instructions for my homelab-in-progress"
+    },
+    {
       "name":"MGA Connect",
       "url":"https://github.com/ottter/capstone",
       "desc":"Senior Capstone project I lead dev'ed. A student collaboration tool."
