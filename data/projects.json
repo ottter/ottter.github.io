@@ -1,9 +1,9 @@
 {
   "list": [
     {
-      "name":"Personal Homelab",
+      "name":"My Homelab",
       "url":"https://github.com/ottter/",
-      "desc":"Repo where I store config files and instructions for my homelab-in-progress"
+      "desc":"Repo where I store config files and instructions for my homelab"
     },
     {
       "name":"MGA Connect",

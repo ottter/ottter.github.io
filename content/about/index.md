@@ -3,10 +3,6 @@ title: "About"
 date: 2021-04-04T21:29:57-04:00
 ---
 
-## Skills
-
-tbd...
-
 ## Certifications
 
 Currently studying for...  
@@ -29,4 +25,4 @@ Currently studying for...
 ## Education
 
 **Middle Georgia State University** (August 2017 to May 2020)  
-BSIT in Cybersecurity (3.8 GPA)
+BSIT in Cybersecurity
