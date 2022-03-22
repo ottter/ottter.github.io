@@ -32,7 +32,7 @@ The network has to be configured so in TrueNAS, go over to Network > Global Conf
 * Nameserver: 8.8.8.8
 * Default Gateway: 192.168.0.1
 
-> TODO: Decide how I want static IPs set up on my network`
+> TODO: Decide how I want static IPs set up on my network
 
 ### Permission configuration
 Configuring the ACL to allow my Windows host to use SMB to drop files on to the NAS was a bit tricky
