@@ -1,6 +1,6 @@
 ---
-title: "Recursivly load all cogs in a Discord.py bot"
-summary: "Creative method I've worked on to recursively load all cogs and split as much as possible out of the main startup file"
+title: "Recursively load all cogs in a Discord.py bot"
+summary: "Overengineered method I've worked on to recursively load all Discord cogs"
 date: 2022-04-27T22:22:32-04:00
 
 tags: [python, code, programming, discord]
@@ -12,7 +12,7 @@ I've been in the process of moving my discord bot from @dodo to [@dogdog](https:
 make it easier on myself to improve on what I originally made. I want to take up programming as a hobby again and why
 not go back to where it all started. Anyway, here's a neat trick i've been using for a while.
 
-As a diclaimer, all of this can be mostly replaced with something like the below example, but where is the fun in
+As a disclaimer, all of this can be mostly replaced with something like the below example, but where is the fun in
 that?
 
 ```python
@@ -43,7 +43,7 @@ def load_extensions():
 ```
 
 **`dir_list`** are all subdirectories of the parent directory. For organizational purposes I split them in to modules
-(commands such as `.weather`), listeners (`on_message` and guild/member status changes), and discord's built in slash
+(commands such as .weather), listeners (on_message and guild/member status changes), and discord's built in slash
 commands.
 
 **`exclusion_list`** is for specific *files* to exclude from loading. This is because within each subdirectory I have
