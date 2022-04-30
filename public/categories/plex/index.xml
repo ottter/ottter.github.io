@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Plex on James&#39; Blog</title>
-    <link>http://localhost:1313/categories/plex/</link>
-    <description>Recent content in Plex on James&#39; Blog</description>
+    <title>plex on James&#39; Blog</title>
+    <link>https://jamescr.dev/categories/plex/</link>
+    <description>Recent content in plex on James&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>You</copyright>
-    <lastBuildDate>Thu, 17 Mar 2022 15:21:55 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/plex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Mar 2022 15:21:55 -0400</lastBuildDate><atom:link href="https://jamescr.dev/categories/plex/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TrueNAS and Plex</title>
-      <link>http://localhost:1313/posts/truenas-and-plex/</link>
+      <link>https://jamescr.dev/posts/truenas-and-plex/</link>
       <pubDate>Thu, 17 Mar 2022 15:21:55 -0400</pubDate>
       
-      <guid>http://localhost:1313/posts/truenas-and-plex/</guid>
+      <guid>https://jamescr.dev/posts/truenas-and-plex/</guid>
       <description>Configuring TrueNAS and Plex</description>
     </item>
     

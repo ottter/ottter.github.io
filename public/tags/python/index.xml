@@ -2,18 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>python on James&#39; Blog</title>
-    <link>http://localhost:1313/tags/python/</link>
+    <link>https://jamescr.dev/tags/python/</link>
     <description>Recent content in python on James&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>You</copyright>
-    <lastBuildDate>Sun, 04 Apr 2021 21:41:30 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2022 22:22:32 -0400</lastBuildDate><atom:link href="https://jamescr.dev/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recursivly load all cogs in a Discord.py bot</title>
+      <link>https://jamescr.dev/posts/recursive-load-cogs/</link>
+      <pubDate>Wed, 27 Apr 2022 22:22:32 -0400</pubDate>
+      
+      <guid>https://jamescr.dev/posts/recursive-load-cogs/</guid>
+      <description>Creative method I&amp;rsquo;ve worked on to recursively load all cogs and split as much as possible out of the main startup file</description>
+    </item>
+    
     <item>
       <title>Creating a Dumb Suduko Solver, part 1</title>
-      <link>http://localhost:1313/posts/suduko-1/</link>
+      <link>https://jamescr.dev/posts/suduko-1/</link>
       <pubDate>Sun, 04 Apr 2021 21:41:30 -0400</pubDate>
       
-      <guid>http://localhost:1313/posts/suduko-1/</guid>
+      <guid>https://jamescr.dev/posts/suduko-1/</guid>
       <description>Teaching myself OCR through OpenCV</description>
     </item>
     

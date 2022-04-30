@@ -2,117 +2,135 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on James&#39; Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://jamescr.dev/tags/</link>
     <description>Recent content in Tags on James&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>You</copyright>
-    <lastBuildDate>Thu, 17 Mar 2022 15:21:55 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>homelab</title>
-      <link>http://localhost:1313/tags/homelab/</link>
-      <pubDate>Thu, 17 Mar 2022 15:21:55 -0400</pubDate>
-      
-      <guid>http://localhost:1313/tags/homelab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plex</title>
-      <link>http://localhost:1313/tags/plex/</link>
-      <pubDate>Thu, 17 Mar 2022 15:21:55 -0400</pubDate>
-      
-      <guid>http://localhost:1313/tags/plex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>proxmox</title>
-      <link>http://localhost:1313/tags/proxmox/</link>
-      <pubDate>Thu, 17 Mar 2022 15:21:55 -0400</pubDate>
-      
-      <guid>http://localhost:1313/tags/proxmox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TrueNAS</title>
-      <link>http://localhost:1313/tags/truenas/</link>
-      <pubDate>Thu, 17 Mar 2022 15:21:55 -0400</pubDate>
-      
-      <guid>http://localhost:1313/tags/truenas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>chia</title>
-      <link>http://localhost:1313/tags/chia/</link>
-      <pubDate>Sat, 08 May 2021 16:21:38 -0400</pubDate>
-      
-      <guid>http://localhost:1313/tags/chia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cryptocurrency</title>
-      <link>http://localhost:1313/tags/cryptocurrency/</link>
-      <pubDate>Sat, 08 May 2021 16:21:38 -0400</pubDate>
-      
-      <guid>http://localhost:1313/tags/cryptocurrency/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>farming</title>
-      <link>http://localhost:1313/tags/farming/</link>
-      <pubDate>Sat, 08 May 2021 16:21:38 -0400</pubDate>
-      
-      <guid>http://localhost:1313/tags/farming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mining</title>
-      <link>http://localhost:1313/tags/mining/</link>
-      <pubDate>Sat, 08 May 2021 16:21:38 -0400</pubDate>
-      
-      <guid>http://localhost:1313/tags/mining/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 27 Apr 2022 22:22:32 -0400</lastBuildDate><atom:link href="https://jamescr.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>code</title>
-      <link>http://localhost:1313/tags/code/</link>
-      <pubDate>Sun, 04 Apr 2021 21:41:30 -0400</pubDate>
+      <link>https://jamescr.dev/tags/code/</link>
+      <pubDate>Wed, 27 Apr 2022 22:22:32 -0400</pubDate>
       
-      <guid>http://localhost:1313/tags/code/</guid>
+      <guid>https://jamescr.dev/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>computer vision</title>
-      <link>http://localhost:1313/tags/computer-vision/</link>
-      <pubDate>Sun, 04 Apr 2021 21:41:30 -0400</pubDate>
+      <title>discord</title>
+      <link>https://jamescr.dev/tags/discord/</link>
+      <pubDate>Wed, 27 Apr 2022 22:22:32 -0400</pubDate>
       
-      <guid>http://localhost:1313/tags/computer-vision/</guid>
+      <guid>https://jamescr.dev/tags/discord/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://jamescr.dev/tags/programming/</link>
+      <pubDate>Wed, 27 Apr 2022 22:22:32 -0400</pubDate>
+      
+      <guid>https://jamescr.dev/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>https://jamescr.dev/tags/python/</link>
+      <pubDate>Wed, 27 Apr 2022 22:22:32 -0400</pubDate>
+      
+      <guid>https://jamescr.dev/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>homelab</title>
+      <link>https://jamescr.dev/tags/homelab/</link>
+      <pubDate>Thu, 17 Mar 2022 15:21:55 -0400</pubDate>
+      
+      <guid>https://jamescr.dev/tags/homelab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plex</title>
+      <link>https://jamescr.dev/tags/plex/</link>
+      <pubDate>Thu, 17 Mar 2022 15:21:55 -0400</pubDate>
+      
+      <guid>https://jamescr.dev/tags/plex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proxmox</title>
+      <link>https://jamescr.dev/tags/proxmox/</link>
+      <pubDate>Thu, 17 Mar 2022 15:21:55 -0400</pubDate>
+      
+      <guid>https://jamescr.dev/tags/proxmox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trueNAS</title>
+      <link>https://jamescr.dev/tags/truenas/</link>
+      <pubDate>Thu, 17 Mar 2022 15:21:55 -0400</pubDate>
+      
+      <guid>https://jamescr.dev/tags/truenas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chia</title>
+      <link>https://jamescr.dev/tags/chia/</link>
+      <pubDate>Sat, 08 May 2021 16:21:38 -0400</pubDate>
+      
+      <guid>https://jamescr.dev/tags/chia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cryptocurrency</title>
+      <link>https://jamescr.dev/tags/cryptocurrency/</link>
+      <pubDate>Sat, 08 May 2021 16:21:38 -0400</pubDate>
+      
+      <guid>https://jamescr.dev/tags/cryptocurrency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>farming</title>
+      <link>https://jamescr.dev/tags/farming/</link>
+      <pubDate>Sat, 08 May 2021 16:21:38 -0400</pubDate>
+      
+      <guid>https://jamescr.dev/tags/farming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mining</title>
+      <link>https://jamescr.dev/tags/mining/</link>
+      <pubDate>Sat, 08 May 2021 16:21:38 -0400</pubDate>
+      
+      <guid>https://jamescr.dev/tags/mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer vision</title>
+      <link>https://jamescr.dev/tags/computer-vision/</link>
       <pubDate>Sun, 04 Apr 2021 21:41:30 -0400</pubDate>
       
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>https://jamescr.dev/tags/computer-vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sudoku</title>
-      <link>http://localhost:1313/tags/sudoku/</link>
+      <link>https://jamescr.dev/tags/sudoku/</link>
       <pubDate>Sun, 04 Apr 2021 21:41:30 -0400</pubDate>
       
-      <guid>http://localhost:1313/tags/sudoku/</guid>
+      <guid>https://jamescr.dev/tags/sudoku/</guid>
       <description></description>
     </item>
     

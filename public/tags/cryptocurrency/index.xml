@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cryptocurrency on James&#39; Blog</title>
-    <link>http://localhost:1313/tags/cryptocurrency/</link>
+    <link>https://jamescr.dev/tags/cryptocurrency/</link>
     <description>Recent content in cryptocurrency on James&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>You</copyright>
-    <lastBuildDate>Sat, 08 May 2021 16:21:38 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/cryptocurrency/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 May 2021 16:21:38 -0400</lastBuildDate><atom:link href="https://jamescr.dev/tags/cryptocurrency/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chia Farming Setup</title>
-      <link>http://localhost:1313/posts/chia-farming-1/</link>
+      <link>https://jamescr.dev/posts/chia-farming-1/</link>
       <pubDate>Sat, 08 May 2021 16:21:38 -0400</pubDate>
       
-      <guid>http://localhost:1313/posts/chia-farming-1/</guid>
+      <guid>https://jamescr.dev/posts/chia-farming-1/</guid>
       <description>Setting up a home Chia farming rig</description>
     </item>
     
