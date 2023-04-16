@@ -1,19 +1,24 @@
 {
   "list": [
     {
-      "name":"My Homelab",
-      "url":"https://github.com/ottter/",
-      "desc":"Repo where I store config files and instructions for my homelab"
+      "name":"Raspberries",
+      "url":"https://github.com/ottter/raspberries",
+      "desc":"Raspberry Pi homelab build tools and resources"
     },
     {
       "name":"MGA Connect",
       "url":"https://github.com/ottter/capstone",
-      "desc":"Senior Capstone project I lead dev'ed. A student collaboration tool."
+      "desc":"BSIT Capstone project. A student resource and collaboration tool."
     },
     {
-      "name":"CV Sudoku Solver",
+      "name":"Sudoku Solver",
       "url":"https://github.com/ottter/sudoku",
       "desc":"Computer vision used to solve images of sudoku puzzles."
+    },
+    {
+      "name":"Discord Bot",
+      "url":"https://github.com/ottter/discord-bot",
+      "desc":"Discord Chatbot with a number of features."
     }
   ]
 }
