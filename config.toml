@@ -2,11 +2,7 @@ baseURL = "https://jamescr.dev"
 languageCode = "en-us"
 title = "James' Blog"
 theme = "cactus"
-copyright = "You" # cactus will use title if copyright is not set
-disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
-# googleAnalytics = "UA-1234-5"
-
-builddrafts = true
+copyright = "you"
 
 # summaryLength = 2
 
@@ -43,16 +39,15 @@ weight = 4
 [params]
 
   colortheme = "dark" # dark, light, white, or classic
-  rss = true # generate rss feed. default value is false
-  googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
+  rss = true
 
   # Home page settings
   description = "A place where I post about topics that interest me while I learn as I go. I like taking notes. Most of the time it's in a notebook, but sometimes I'll repost them here for the world to see. Except with the SEO I plan on utilizing (none), if YOU are reading this, you already know what you're looking for."
-  mainSection = "posts" # your main section
-  showAllPostsOnHomePage = false # default
-  postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
-showProjectsList = true # show projects list by default (if projects data file exists).
-  projectsUrl = "https://github.com/ottter" # title link for projects list
+  mainSections = ["posts"]
+  showAllPostsOnHomePage = false
+  postsOnHomePage = 5
+  showProjectsList = true
+  projectsUrl = "https://github.com/ottter"
 
   # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
   dateFormat = "2006-01-02" # default
@@ -61,8 +56,7 @@ showProjectsList = true # show projects list by default (if projects data file e
   show_updated = false # default
 
   [params.comments]
-    enabled = false # default
-    engine = "disqus" # more supported engines will be added.
+    enabled = false
 
   # the value of name should be an valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands
