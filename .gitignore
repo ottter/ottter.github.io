@@ -1,0 +1,14 @@
+public/
+.hugo_build.lock
+.idea/
+resources/
+categories/
+index.html
+index.xml
+sitemap.xml
+css/
+js/
+lib/
+tags/
+images/
+CNAME

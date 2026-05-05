@@ -4,12 +4,21 @@ I figured that blogging some of my personal projects and generally what I get up
  good motivator to be more productive in my free time and to improve at what I love. There is
  no set theme, purpose, or timeframe for updates.
 
-## Getting Started
+## Local Development
+
+If you cloned without `--recurse-submodules`, initialize the theme first:
 
 ```terminal
-git clone https://github.com/ottter/ottter.github.io.git
-sudo apt install hugo
+git submodule init && git submodule update
 ```
+
+Start a local dev server (includes draft posts):
+
+```terminal
+hugo server -D
+```
+
+Open [http://localhost:1313](http://localhost:1313) in your browser. The server live-reloads on file changes.
 
 ## Make a New Post
 
